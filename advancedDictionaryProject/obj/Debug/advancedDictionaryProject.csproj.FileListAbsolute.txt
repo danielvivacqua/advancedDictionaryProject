@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\advancedDictionaryProject\advancedDictionaryProject\bin\Debug\advancedDictionaryProject.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\advancedDictionaryProject\advancedDictionaryProject\bin\Debug\advancedDictionaryProject.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\advancedDictionaryProject\advancedDictionaryProject\bin\Debug\advancedDictionaryProject.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\advancedDictionaryProject\advancedDictionaryProject\obj\Debug\advancedDictionaryProject.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\advancedDictionaryProject\advancedDictionaryProject\obj\Debug\advancedDictionaryProject.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\advancedDictionaryProject\advancedDictionaryProject\obj\Debug\advancedDictionaryProject.pdb
